@@ -20,6 +20,11 @@ namespace :deploy do
     sudo "service postgresql stop"
     run "kill `cat /tmp/unicorn_rails3demo.pid`"
   end
+
+  task :restart do
+    stop
+    start
+  end
 end
 
 # if you want to clean up old releases on each deploy uncomment this:
