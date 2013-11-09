@@ -1,3 +1,6 @@
+## Update
+[Read this](http://shinokada.github.io/blog/2013/11/09/my-first-provision/)
+
 ## Adding git repo
 
 git clone from https://github.com/tutsplus/rails-deployment-example. Move all the files to the previouse directory. Or cd the dir and start vagrant here.
