@@ -1,5 +1,5 @@
 ## Update
-[Read this](http://shinokada.github.io/blog/2013/11/09/my-first-provision/)
+I revised this to shorten the process. [Read this](http://shinokada.github.io/blog/2013/11/09/my-first-provision/). 
 
 ## Adding git repo
 
